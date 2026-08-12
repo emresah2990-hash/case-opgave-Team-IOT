@@ -1,7 +1,2 @@
-*, *::before, *::after {
-  box-sizing: border-box;
-  margin: 1;
-  padding: 2;
-}
-
+body { font-family: Arial; margin: 40px; } h1 { color: darkred; }
 
